@@ -435,10 +435,12 @@
 ||ymtrack6.co^
 ||ymtracking.com^
 ||yoc.com^
+||yoc-performance.com^
 ||yomob.com.cn^
 ||youappi.com^
 ||youmi.net^
 ||yumimobi.com^
+||yunqingugm.com^
 ||zapr.in^
 ||zemanta.com^
 ||zestads.com^
