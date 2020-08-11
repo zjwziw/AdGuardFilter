@@ -6,6 +6,7 @@
 @@||analytics.strava.com^$important
 @@||msg.umeng.com^$important
 @@||msg.umengcloud.com^$important
+@@||ipassport.ele.me^$important
 
 ||a.wkanx.com^
 ||abema-adx.ameba.jp^
