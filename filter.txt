@@ -1,4 +1,5 @@
 @@||app.adjust.com^$important
+@@||bdtj.tagtic.cn^$important
 @@||log.mmstat.com^$important
 @@||sycm.mmstat.com^$important
 @@||livew.l.qq.com^$important
@@ -17,6 +18,7 @@
 ||ad.api.moji.com^
 ||ad.bn.netease.com^
 ||ad.caiyunapp.com^
+||ad.flurry.com^
 ||ad.hpplay.cn^
 ||ad.huajiao.com^
 ||ad.hzyoka.com^
@@ -29,7 +31,6 @@
 ||ad.wappalyzer.com^
 ||ad.ximalaya.com^
 ||ad.yixin.im^
-||ad.zing.vn^
 ||ad-analysis.pconline.com.cn^
 ||adbehavior.wsa.ximalaya.com^
 ||adbehavior.ximalaya.com^
@@ -62,6 +63,7 @@
 ||ads.chinadaily.com.cn^
 ||ads.daydaycook.com.cn^
 ||ads.finance.yahoo.com^
+||ads.flurry.com^
 ||ads.mojicdn.com^
 ||ads.service.kugou.com^
 ||ads.weilitoutiao.net^
@@ -101,6 +103,7 @@
 ||api.adnet.mob.com^
 ||api.newad.ifeng.com^
 ||app-ad.variflight.com^
+||appcloud2.zhihu.com^
 ||applogapi.autohome.com.cn^
 ||appnext.hs.llnwd.net^
 ||appnext-a.akamaihd.net^
@@ -144,9 +147,9 @@
 ||itad.linetv.tw^
 ||ivy.pchouse.com.cn^
 ||iyes.youku.com^
-||ja.chushou.tv^
 ||kgmobilestat.kugou.com^
 ||kgmobilestatbak.kugou.com^
+||log.51wnl-cq.com^
 ||log.ycapp.yiche.com^
 ||logs.chelaile.net.cn^
 ||mads.suning.com^
@@ -171,6 +174,7 @@
 ||pgdt.ugdtimg.com^
 ||pl.cp31.ott.cibntv.net^
 ||pvnapp.zol.com.cn^
+||r.51wnl-cq.com^
 ||rd.autohome.com.cn^
 ||regist.fotoable.com^
 ||rich.kuwo.cn^
@@ -214,9 +218,6 @@
 ||aarki.com^
 ||aarki.net^
 ||abtasty.com^
-||accesstrade.com^
-||accesstrade.com.vn^
-||accesstrade.vn^
 ||acento.com^
 ||actionads.ru^
 ||actionpay.ru^
@@ -224,7 +225,6 @@
 ||ad.daum.net^
 ||ad.gt^
 ||ad.intl.xiaomi.com^
-||ad.org.vn^
 ||ad.sohu.com^
 ||ad.xiaomi.com^
 ||ad1.ru^
@@ -235,7 +235,6 @@
 ||ad1data.com^
 ||ad2games.com^
 ||ad2iction.com^
-||ad360.vn^
 ||ad4.com.cn^
 ||ad4game.com^
 ||ad6media.co.uk^
@@ -318,6 +317,8 @@
 ||advertising.com^
 ||advertising.yahoo.com^
 ||adwhirl.com^
+||adxadserv.com^
+||aiclk.com^
 ||aiseet.atianqi.com^
 ||amazon-adsystem.com^
 ||amobee.com^
@@ -356,8 +357,8 @@
 ||e.qq.com^
 ||eroadvertising.com^
 ||ero-advertising.com^
+||exdynsrv.com^
 ||exosrv.com^
-||fivecdm.com^
 ||gdt.qq.com^
 ||gemini.yahoo.com^
 ||go2cloud.org^
@@ -411,13 +412,13 @@
 ||rayjump.com^
 ||rtbasia.com^
 ||rubiconproject.com^
+||runative-syndicate.com^
 ||scorecardresearch.com^
 ||sdkclick.com^
 ||shuzilm.cn^
 ||smaato.net^
 ||smartadserver.com^
 ||smartnews-ads.com^
-||socdm.com^
 ||supersonic.com^
 ||supersonicads.com^
 ||tagtic.cn^
@@ -444,7 +445,6 @@
 ||xpanama.net^
 ||xy7elite.com^
 ||yandexadexchange.net^
-||yap.yahoo.com^
 ||ybrantdigital.com^
 ||ydmob.com^
 ||yeahmobi.com^
