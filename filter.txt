@@ -37,6 +37,7 @@
 ||adbs.ximalaya.com^
 ||adc.hpplay.cn^
 ||adcdn.hpplay.cn^
+||ad-cdn.qingting.fm^
 ||ad-cn.jovcloud.com^
 ||adeng.hpplay.cn^
 ||adextra.51wnl-cq.com^
@@ -44,6 +45,7 @@
 ||adimg.uve.weibo.com^
 ||adimg.vue.weibo.com^
 ||adlaunch.moji.com^
+||adlaunch.qingting.fm^
 ||adm.10jqka.com.cn^
 ||adm0.autoimg.cn^
 ||adm1.autoimg.cn^
@@ -90,8 +92,6 @@
 ||adui.tg.meitu.com^
 ||adv.bandi.so^
 ||adv.ettoday.net^
-||adv.sec.intl.miui.com^
-||adv.sec.miui.com^
 ||advertise.baicizhan.com^
 ||advertise.baicizhan.org^
 ||adx.hupu.com^
@@ -102,7 +102,9 @@
 ||als.baidu.com^
 ||api.adnet.mob.com^
 ||api.newad.ifeng.com^
+||api-ad.kajicam.com^
 ||app-ad.variflight.com^
+||appcloud2.in.zhihu.com^
 ||appcloud2.zhihu.com^
 ||applogapi.autohome.com.cn^
 ||appnext.hs.llnwd.net^
@@ -118,9 +120,11 @@
 ||counter.ksosoft.com^
 ||cwx.lianwangtech.com^
 ||de.as.pptv.com^
+||dispatcher.360in.com^
 ||duclick.baidu.com^
 ||emma-414870e223.huodonghezi.com^
 ||etl.xlmc.sandai.net^
+||exp.360in.com^
 ||g.koowo.com^
 ||g.ousns.net^
 ||g3.letv.com^
@@ -152,6 +156,7 @@
 ||log.51wnl-cq.com^
 ||log.ycapp.yiche.com^
 ||logs.chelaile.net.cn^
+||ma-adx.ctrip.com^
 ||mads.suning.com^
 ||mdrecv.app.cntvwb.cn^
 ||minfo.wps.cn^
@@ -206,8 +211,6 @@
 ||1rtb.com^
 ||1xl.co.uk^
 ||206ads.com^
-||247realmedia.com^
-||2mdnsys.com^
 ||3cinteractive.com^
 ||4mads.com^
 ||5rocks.io^
@@ -224,9 +227,7 @@
 ||ad.cmvideo.cn^
 ||ad.daum.net^
 ||ad.gt^
-||ad.intl.xiaomi.com^
 ||ad.sohu.com^
-||ad.xiaomi.com^
 ||ad1.ru^
 ||ad120m.com^
 ||ad127m.com^
@@ -284,10 +285,10 @@
 ||adflow.ru^
 ||adinall.com^
 ||ad-locus.com^
+||adlooxtracking.com^
 ||admaster.com.cn^
 ||ad-maven.com^
 ||admob.com^
-||admob.xiaomi.com^
 ||ad-move.jp^
 ||adnxs.com^
 ||adnyg.com^
@@ -296,6 +297,8 @@
 ||ads.prd.ie.internal.unity3d.com^
 ||ads.sohu.com^
 ||adsafeprotected.com^
+||adsage.cn^
+||adsage.com^
 ||ad-score.com^
 ||adsensor.org^
 ||adserver.yahoo.com^
@@ -317,6 +320,7 @@
 ||advertising.com^
 ||advertising.yahoo.com^
 ||adwhirl.com^
+||adwo.com^
 ||adxadserv.com^
 ||aiclk.com^
 ||aiseet.atianqi.com^
@@ -329,6 +333,7 @@
 ||applift.com^
 ||applovin.com^
 ||applvn.com^
+||appsflyer.com^
 ||apsalar.com^
 ||apxadtracking.net^
 ||atm.youku.com^
@@ -352,6 +357,7 @@
 ||da.hunantv.com^
 ||da.mgtv.com^
 ||deliver.ifeng.com^
+||domob.cn^
 ||doubleclick.net^
 ||dsp.youdao.com^
 ||e.qq.com^
