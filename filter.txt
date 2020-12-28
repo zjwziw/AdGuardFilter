@@ -92,6 +92,8 @@
 ||adui.tg.meitu.com^
 ||adv.bandi.so^
 ||adv.ettoday.net^
+||adv-adlog.variflight.com^
+||adv-ads.variflight.com^
 ||advertise.baicizhan.com^
 ||advertise.baicizhan.org^
 ||adx.hupu.com^
@@ -174,6 +176,7 @@
 ||nsclick.baidu.com^
 ||optimus-ads.amap.com^
 ||optimus-ads.amap.com.w.alikunlun.com^
+||pangolin.snssdk.com^
 ||pgdt.gtimg.cn^
 ||pgdt.gtimg.com^
 ||pgdt.ugdtimg.com^
@@ -348,6 +351,7 @@
 ||bulldogcpi.com^
 ||bxsnews.com^
 ||carbonads.net^
+||cdj99d.cn^
 ||clotfun.mobi^
 ||clotfun.online^
 ||cloudmobi.net^
@@ -412,6 +416,7 @@
 ||open-adx.com^
 ||openx.net^
 ||outbrain.com^
+||pangolin-sdk-toutiao.com^
 ||pos.baidu.com^
 ||pubmatic.com^
 ||qchannel01.cn^
